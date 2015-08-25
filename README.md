@@ -3,8 +3,7 @@ Another web framework.
 It tries to be modular, extendable and keep things simple.
 
 # cream-js
-
-Collection of Javascrit files. You can use them in any way you like, but they are made with the cream(link) environment in mind.
+Collection of Javascript files. You can use them in any way you like, but they are made with the cream(link) environment in mind.
 
 They follow a modular approach, inspired by patternlabs atomic design(link).
 
