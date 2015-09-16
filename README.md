@@ -1,6 +1,5 @@
 # Cream
-Frontend goodies at your disposal.
-Modular, extendable and keeps things simple.
+Frontend goodies at your disposal. Modular, extendable and keeps things simple.
 
 ## cream-js
 Collection of Javascript files. You can use them in any way you like, but they are made with the [Cream](https://github.com/cream-project) environment in mind.
