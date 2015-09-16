@@ -24,3 +24,5 @@ Common helper functions.
 #### modules
 Accompanying Javascript for complex building blocks.
 
+### License
+Licensed under the [MIT license](https://github.com/cream-project/cream-js/blob/master/LICENSE).
