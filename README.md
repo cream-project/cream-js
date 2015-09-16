@@ -9,7 +9,7 @@ The main file application.js uses [Sprockets](https://github.com/sstephenson/spr
 
 The documentation format can be used with [Hologram](http://trulia.github.io/hologram/), to automatically generate a styleguide.
 
-Check [STYLE.md]() for coding conventions.
+Check [STYLE.md](https://github.com/cream-project/cream-js/blob/master/STYLE.md) for coding conventions.
 
 ### Directories
 
