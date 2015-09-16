@@ -1,24 +1,27 @@
-# cream
-Another web framework.
-It tries to be modular, extendable and keep things simple.
+# Cream
+Frontend goodies at your disposal.
+Modular, extendable and keeps things simple.
 
-# cream-js
-Collection of Javascript files. You can use them in any way you like, but they are made with the cream(link) environment in mind.
+## cream-js
+Collection of Javascript files. You can use them in any way you like, but they are made with the [Cream](https://github.com/cream-project) environment in mind.
 
-They follow a modular approach, inspired by patternlabs atomic design(link).
+The main file application.js uses [Sprockets](https://github.com/sstephenson/sprockets) directives to include everything else.
 
-The documentation format can be used with hologram(link), to automatically generate a styleguide.
+The documentation format can be used with [Hologram](http://trulia.github.io/hologram/), to automatically generate a styleguide.
 
-## Directories
+Check [STYLE.md]() for coding conventions.
 
-### lib
+### Directories
+
+#### lib
 3rd party libraries.
 
-# polyfills
-Polyfills for features not present in some (older) browsers.
+#### polyfills
+Polyfills for features not present in some browsers.
 
-### helpers
+#### helpers
 Common helper functions.
 
-### modules
+#### modules
 Accompanying Javascript for complex building blocks.
+
